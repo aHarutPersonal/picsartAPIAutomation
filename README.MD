@@ -1,4 +1,4 @@
-# Picsart UI Automation Framework
+# Picsart API Automation Framework
 
 ## Overview
 This is a API automation framework for testing the APIs. It uses Java, RestAssured and TestNG.
@@ -6,7 +6,6 @@ This is a API automation framework for testing the APIs. It uses Java, RestAssur
 ## Prerequisites
 - Java 20
 - Maven 3.6 or higher
-- A web browser (Chrome, Firefox, etc.)
 
 ## Running the tests
 
