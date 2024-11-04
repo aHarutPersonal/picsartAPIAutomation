@@ -1,7 +1,7 @@
 # Picsart UI Automation Framework
 
 ## Overview
-This is a UI automation framework for testing the Picsart web application. It uses Java, Selenium WebDriver, and TestNG.
+This is a API automation framework for testing the APIs. It uses Java, RestAssured and TestNG.
 
 ## Prerequisites
 - Java 20
@@ -16,4 +16,4 @@ mvn test
 ```
 
 ## Configuration
-The required configurations (e.g., browser type, URL, etc.) can be found in the `src/test/resources/testNG.xml` file.
+The required configurations (e.g., URL, etc.) can be found in the `src/test/resources/testNG.xml` file.
